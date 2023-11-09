@@ -1,0 +1,8 @@
+{
+    "jwt": {
+      "expires": 86400,
+      "secret": "fhsr355fkdfj"
+    },
+    "emailTokenExpiry": 3600000,
+    "cryptoToken": "dsf458fjd4zigg"
+  }
